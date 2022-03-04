@@ -1,7 +1,16 @@
-# web Cache  Architecture
+# Cache  Architecture Web 
 
-1. 
-2. 
+This is a million flow web which is cached architecture.  Technology stack :redis、nginx+lua、ehcache
+
+ [toc]
+
+## 
+
+
+
+
+
+
 
 
 
