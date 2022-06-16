@@ -26,5 +26,4 @@
 
 
 
-![架构](https://github.com/crkres9527/webCacheArchitecture/blob/main/learn/details.png)
-
+![架构详情](https://github.com/crkres9527/webCacheArchitecture/blob/main/learn/details.png)
